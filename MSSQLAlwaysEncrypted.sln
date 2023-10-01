@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSSQLAlwaysEncrypted", "MSSQLAlwaysEncrypted\MSSQLAlwaysEncrypted.csproj", "{6592E8AC-8409-4085-BC3B-25F2D9B4104F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6592E8AC-8409-4085-BC3B-25F2D9B4104F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6592E8AC-8409-4085-BC3B-25F2D9B4104F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6592E8AC-8409-4085-BC3B-25F2D9B4104F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6592E8AC-8409-4085-BC3B-25F2D9B4104F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE1D19C5-F512-4497-87CE-8A651FDB2C27}
+	EndGlobalSection
+EndGlobal
